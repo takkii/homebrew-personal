@@ -37,6 +37,14 @@ zinbei2は商用、法人または個人向け、有償版のzinbeiです。
 電気代や活動資金にします。
 ```
 
+### tubuyaki_gui
+
+```txt
+おまけです。気に入りましたら、
+購入するボタンより投げ銭をお願いします。
+電気代や活動資金にします。
+```
+
 ### homebrew-personal
 
 ```txt
@@ -45,6 +53,8 @@ brew tap takkii/homebrew-personal
 brew install zinbeijett2
 
 brew install zinbei2
+
+brew install tubuyaki_gui
 ```
 
-*homebrew-zinbei2とhomebrew-zinbeijett2をまとめました*
+*homebrew-zinbei2 + homebrew-zinbeijett2 + homebrew-tubuyaki_gui*
