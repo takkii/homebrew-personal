@@ -54,6 +54,8 @@ brew install zinbeijett2
 
 brew install zinbei2
 
+gem install tk
+
 brew install tubuyaki_gui
 ```
 
