@@ -3,10 +3,10 @@ require "formula"
 class Zinbei2 < Formula
   
   homepage "https://github.com/takkii/zinbei2"
-  url "https://github.com/takkii/zinbei2/archive/2.0.7.tar.gz"
-  sha256 "fd21f329b9583773134caaceaaf607ad5879e93b127cb1d6ed9a13fdc06386e0"
+  url "https://github.com/takkii/zinbei2/archive/2.0.8.tar.gz"
+  sha256 "581d3a8e3625330e37e40fdf3b3ee6edbf7ea4c34f3491a1a59824fda1242d99"
   head "https://github.com/takkii/zinbei2.git"
-  version "2.1.0"
+  version "2.1.1"
 
   def install
    bin.install Dir['bin/*']
